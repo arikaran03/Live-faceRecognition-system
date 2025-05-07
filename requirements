@@ -1,0 +1,6 @@
+pip install cmake
+pip install dlib
+pip install face_recognition
+pip install deepface
+pip install tf-keras
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126 { we have installed pytorch for cuda12.6 version install which suitable for you }
